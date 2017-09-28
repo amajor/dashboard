@@ -1,3 +1,6 @@
+[![Code Climate](https://codeclimate.com/github/amajor/dashboard/badges/gpa.svg)](https://codeclimate.com/github/amajor/dashboard)
+[![Issue Count](https://codeclimate.com/github/amajor/dashboard/badges/issue_count.svg)](https://codeclimate.com/github/amajor/dashboard)
+
 # Dashboard
 
 This will be my dashboard project as I work through the process of setting up and deploying a product. It will be an application that presents useful information to the user.
