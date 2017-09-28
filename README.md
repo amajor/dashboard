@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/amajor/dashboard.svg?branch=master)](https://travis-ci.org/amajor/dashboard)
 [![Code Climate](https://codeclimate.com/github/amajor/dashboard/badges/gpa.svg)](https://codeclimate.com/github/amajor/dashboard)
 [![Issue Count](https://codeclimate.com/github/amajor/dashboard/badges/issue_count.svg)](https://codeclimate.com/github/amajor/dashboard)
 
