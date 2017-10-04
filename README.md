@@ -6,6 +6,10 @@
 
 This will be my dashboard project as I work through the process of setting up and deploying a product. It will be an application that presents useful information to the user.
 
+## Deployed
+
+See the dashboard on Heroku at https://amajor-dashboard.herokuapp.com
+
 ## The Plan
 
 ### 1. User Personas
