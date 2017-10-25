@@ -21,6 +21,7 @@
     "node": "8.5.0"
   },
   "dependencies": {
+    "express": "^4.16.2",
     "harp": "^0.24.1"
   },
   "devDependencies": {
