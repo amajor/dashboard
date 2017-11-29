@@ -8,7 +8,7 @@ This will be my dashboard project as I work through the process of setting up an
 
 ## Deployed
 
-See the dashboard on Heroku at https://amajor-dashboard.herokuapp.com
+See the dashboard at https://amajor.github.io/dashboard/public/
 
 ## The Plan
 
