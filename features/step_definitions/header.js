@@ -8,7 +8,7 @@ defineSupportCode(({ Before, Given, When, Then }) => {
 
   Given('I am viewing the dashboard', { timeout: 60 * 1000 }, async function testCase() {
     this.page = await this.browser.newPage()
-    await this.page.goto('https://amajor.github.io/dashboard/public/')
+    await this.page.goto('http://localhost:3000/')
   })
 
   Then('I see the header', async function testCase() {
